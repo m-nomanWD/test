@@ -1,0 +1,11 @@
+.error-class {
+  font-size: 12px;
+}
+.login-error {
+  font-size: 14px;
+  border-left: 3px solid #fb7185;
+  padding: 1rem 1rem;
+  box-sizing: border-box;
+  background-color: #fdf2f8;
+  margin-top: 16px;
+}
